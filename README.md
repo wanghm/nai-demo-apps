@@ -68,7 +68,7 @@ python app.py
 3. Enter your message in the input box and click the "Send" button to interact with the chatbot.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](./LICENSE).
 
 ## Troubleshooting
 * Ensure the .env file is correctly configured with your NAI API endpoint and API key.
